@@ -1,0 +1,10 @@
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\bin\Debug\InvestForUApp.exe.config
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\bin\Debug\InvestForUApp.exe
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\bin\Debug\InvestForUApp.pdb
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.csprojAssemblyReference.cache
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.Form1.resources
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.Properties.Resources.resources
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.csproj.GenerateResource.cache
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.csproj.CoreCompileInputs.cache
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.exe
+C:\Users\nuig\source\repos\InvestForUApp\InvestForUApp\obj\Debug\InvestForUApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\bin\Debug\CinemaSalesApp.exe.config
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\bin\Debug\CinemaSalesApp.exe
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\bin\Debug\CinemaSalesApp.pdb
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.csprojAssemblyReference.cache
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.Form1.resources
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.Properties.Resources.resources
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.csproj.GenerateResource.cache
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.csproj.CoreCompileInputs.cache
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.exe
+C:\Users\nuig\source\repos\CinemaSalesApp\CinemaSalesApp\obj\Debug\CinemaSalesApp.pdb

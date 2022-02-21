@@ -1,0 +1,10 @@
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\bin\Debug\CourseNetApp.exe.config
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\bin\Debug\CourseNetApp.exe
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\bin\Debug\CourseNetApp.pdb
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.csprojAssemblyReference.cache
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.Form1.resources
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.Properties.Resources.resources
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.csproj.GenerateResource.cache
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.csproj.CoreCompileInputs.cache
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.exe
+C:\Users\nuig\source\repos\CourseNetApp\CourseNetApp\obj\Debug\CourseNetApp.pdb
