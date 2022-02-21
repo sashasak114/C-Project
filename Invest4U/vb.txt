@@ -1,0 +1,22 @@
+ if (!FormWidthExpand)
+            {
+                for (int i = FORMSTARTHEIGHT; i < FORMEXPANDHEIGHT; i += INCREMENT)
+                {
+                    this.Size = new Size(FORMSTARTWIDTH,i);
+                    this.Update();
+                    System.Threading.Thread.Sleep(1);
+                }
+                FormHeightExpand = true;
+                FormWidthExpand = false;
+            }
+ if (!FormWidthExpand)
+            {
+                for (int i = FORMSTARTHEIGHT; i < FORMEXPANDHEIGHT; i += INCREMENT)
+                {
+                    this.Size = new Size(FORMSTARTWIDTH,i);
+                    this.Update();
+                    System.Threading.Thread.Sleep(1);
+                }
+                FormHeightExpand = true;
+                FormWidthExpand = false;
+            }
